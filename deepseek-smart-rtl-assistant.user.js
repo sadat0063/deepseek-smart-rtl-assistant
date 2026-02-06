@@ -7,6 +7,9 @@
 // @match        https://chat.deepseek.com/*
 // @grant        none
 // @license      MIT
+// @updateURL   https://raw.githubusercontent.com/sadat0063/deepseek-smart-rtl-assistant/main/deepseek-smart-rtl-assistant.user.js
+// @downloadURL https://raw.githubusercontent.com/sadat0063/deepseek-smart-rtl-assistant/main/deepseek-smart-rtl-assistant.user.js
+
 // ==/UserScript==
 
 (function () {
@@ -617,5 +620,6 @@
   } else {
     setTimeout(init, 100);
   }
+
 
 })();
