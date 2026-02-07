@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         DeepSeek Smart RTL Assistant - Emoji Fixed Version
 // @namespace    https://chat.deepseek.com/
-// @version      8.9.0
-// @description  Fixed emoji/symbol positioning with unified font and Hebrew support
+// @version      8.9.1
+// @description  Fix RTL text alignment, emoji positioning, and font consistency for Persian, Arabic, Urdu, Pashto, Kurdish, and Hebrew in DeepSeek
+
 // @author       Seyed Jafar Mousavi
 // @match        https://chat.deepseek.com/*
 // @grant        none
@@ -623,3 +624,4 @@
 
 
 })();
+
